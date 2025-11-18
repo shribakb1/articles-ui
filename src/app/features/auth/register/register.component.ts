@@ -48,8 +48,8 @@ import { RegisterDto } from '../../../core/models/interfaces';
               class="input"
             >
               <option value="">Select a role</option>
-              <option value="VOLUNTEER">Volunteer</option>
-              <option value="MILITARY">Military Unit</option>
+              <option value="ADMIN">Admin</option>
+              <option value="USER">User</option>
             </select>
           </div>
           
